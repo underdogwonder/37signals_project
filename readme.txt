@@ -1,0 +1,1 @@
+This is text of my new project.
